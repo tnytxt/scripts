@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Organise Downloads
+Exec=/usr/bin/python3 /home/lee/Downloads/organise.py
+Icon=folder
+Terminal=true
+
