@@ -10,7 +10,7 @@ def organize_folder(folder):
         'Archives': ['.zip', '.rar',],
         'Music': ['.mp3', '.opus', '.flac', '.m4a', '.m4b', '.mp4', '.aac', '.3gp', '.3g2', '.mp4a',],
         'Iso Images': ['.iso', '.img',],
-        'Linux App Pkgs': ['.deb',],
+        'Linux': ['.deb',],
     }
 
     for filename in os.listdir(folder):
