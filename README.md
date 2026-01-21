@@ -2,7 +2,7 @@
 
 | Scipt  | Function  |
 |---|---|
-| Organize  | Organize files in the download directory by their file extensions.  |
+| organize  | organize files in the download directory by their file extensions.  |
 |   |   |
 |   |   |
 |   |   |
