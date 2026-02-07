@@ -1,1 +1,1 @@
-Organize files in the download directory by their file extensions.
+Organize downloaded files into a directory based on the file extensions.
