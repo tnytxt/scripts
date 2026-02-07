@@ -1,1 +1,7 @@
-Organize downloaded files into a directory based on the file extensions.
+Arrange downloaded files in a directory categorized by file extensions.
+
+
+
+
+
+
