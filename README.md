@@ -1,1 +1,1 @@
- **organize**  | organizes files into directory by their file extensions.
+ **organize**  Arrange downloaded files in a directory categorized by file extensions.
